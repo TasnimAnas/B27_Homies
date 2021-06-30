@@ -6,7 +6,7 @@ This is not a Public Use application. I've made it to get familiar with the Andr
 This is an application that contains details of my classmates and shows the details when the Roll number of the classmate is entered. For privacy concerns, All classmate's details are not added. If You want to check how details are being shown, search for the rolls 20051762 (Me), 20051719, 20051815.
 
 <h3>App Download Link</h3>
-<a href = "https://drive.google.com/file/d/14zwyaHnZTVkpGZZMOAjHZnaY-5-MHqjC/view?usp=drive_open">Google Drive</a>
+<a href = "https://drive.google.com/file/d/1geWeHTtQcmUJo6T2JL3QbbPtYVilISkV/view?usp=sharing">Google Drive</a>
 
 <h3>Installation</h3>
 1. Download the .apk file.<br>
