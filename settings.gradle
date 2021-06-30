@@ -1,0 +1,2 @@
+rootProject.name = "B27_Homies"
+include ':app'
